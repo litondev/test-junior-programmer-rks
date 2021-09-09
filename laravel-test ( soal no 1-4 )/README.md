@@ -4,5 +4,5 @@
 	<p>php artisan migrate:fresh --seed</p>
 
 <h2>Server</h2>
-	<p>php artisan server</p>
+	<p>php artisan serve</p>
 
